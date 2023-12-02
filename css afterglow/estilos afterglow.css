@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(164, 249, 255);
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+ul {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+ol {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    color: darkcyan;
+}
+
+.detalles {
+    background-color: rgb(11, 184, 184);
+}
+
+.admins {
+    background-color: mediumpurple;
+}
+
+.ocupados {
+    background-color: orange;
+}
+
+.reglas {
+    background-color: hotpink;
+}
+
+a {
+    color: rgba(151, 12, 231, 0.89)
+}
+
+img {
+    width: 400px;
+}
